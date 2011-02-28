@@ -1,0 +1,29 @@
+{
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "attributes": {
+  },
+  "description": "Installs/Configures mongodb-ubuntu-apt",
+  "conflicting": {
+  },
+  "dependencies": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "providing": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "version": "0.0.1",
+  "replacing": {
+  },
+  "name": "mongodb-ubuntu-apt",
+  "recipes": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "groupings": {
+  },
+  "platforms": {
+  },
+  "license": "All rights reserved"
+}
