@@ -1,0 +1,10 @@
+imap ;; <Esc>
+nmap <Space> i
+set lines=38 columns=81
+autocmd BufRead,BufNewFile *.py syntax on
+autocmd BufRead,BufNewFile *.py set ai
+autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,with,try,except,finally,def,class
+au FileType python setl autoindent tabstop=4 expandtab shiftwidth=4 softtabstop=4
+syntax on
+filetype plugin on
+set ofu=syntaxcomplete#Complete
